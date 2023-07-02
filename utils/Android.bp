@@ -1,0 +1,7 @@
+filegroup {
+    name: "halcyon-platform-utils-srcs",
+    srcs: [
+        "src/**/*.java",
+        "src/**/*.kt",
+    ],
+}
